@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:OS_Project_1"
         mc:Ignorable="d"
-        Title="DeepDrak♂Fantasy" Height="631" Width="800" ResizeMode="NoResize">
+        Title="DeepDark♂Fantasy" Height="631" Width="800" ResizeMode="NoResize">
 
     <Grid Margin="-2,0,2.333,-0.333" >
         <Grid.ColumnDefinitions>
@@ -83,8 +83,8 @@
         <Button Content="↓" Grid.Column="1" HorizontalAlignment="Left" Margin="100,5,0,90" VerticalAlignment="Bottom" Width="20" Height="20" Name="button44" Click="Button_Click_FloorUpDown" TabIndex="24"/>
         <Button Content="↓" Grid.Column="1" HorizontalAlignment="Left" Margin="100,5,0,60" VerticalAlignment="Bottom" Width="20" Height="20" Name="button43" Click="Button_Click_FloorUpDown" TabIndex="23"/>
         <Button Content="↓" Grid.Column="1" HorizontalAlignment="Left" Margin="100,5,0,30" VerticalAlignment="Bottom" Width="20" Height="20" Name="button42" Click="Button_Click_FloorUpDown" TabIndex="22"/>
-        <Button Content="↓" Grid.Column="1" HorizontalAlignment="Left" Margin="100,5,0,0" VerticalAlignment="Bottom" Width="20" Height="20" Name="button41" Click="Button_Click_FloorUpDown" TabIndex="21"/>
-        <Button Content="↑" Grid.Column="1" HorizontalAlignment="Left" Margin="60,5,0,570" VerticalAlignment="Bottom" Width="20" Height="20" Name="button40" Click="Button_Click_FloorUpDown" TabIndex="20"/>
+        <Button Content="↓" Grid.Column="1" HorizontalAlignment="Left" Margin="100,5,0,0" VerticalAlignment="Bottom" Width="20" Height="20" Name="button41" TabIndex="21"/>
+        <Button Content="↑" Grid.Column="1" HorizontalAlignment="Left" Margin="60,5,0,570" VerticalAlignment="Bottom" Width="20" Height="20" Name="button40" TabIndex="20"/>
         <Button Content="↑" Grid.Column="1" HorizontalAlignment="Left" Margin="60,5,0,540" VerticalAlignment="Bottom" Width="20" Height="20" Name="button39" Click="Button_Click_FloorUpDown" TabIndex="19"/>
         <Button Content="↑" Grid.Column="1" HorizontalAlignment="Left" Margin="60,5,0,510" VerticalAlignment="Bottom" Width="20" Height="20" Name="button38" Click="Button_Click_FloorUpDown" TabIndex="18"/>
         <Button Content="↑" Grid.Column="1" HorizontalAlignment="Left" Margin="60,5,0,480" VerticalAlignment="Bottom" Width="20" Height="20" Name="button37" Click="Button_Click_FloorUpDown" TabIndex="17"/>
